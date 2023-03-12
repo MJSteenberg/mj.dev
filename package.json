@@ -1,6 +1,7 @@
 {
   "name": "react",
   "private": true,
+  "homepage": "https://mjsteenberg.github.io/mj.dev/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
